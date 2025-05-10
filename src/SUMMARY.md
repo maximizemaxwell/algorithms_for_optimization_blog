@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./intro/intro.md)
+    - [Example](./intro/example.md)
 
 - [Chapter1](./chp1/intro.md)
 
